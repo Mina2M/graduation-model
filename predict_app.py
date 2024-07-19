@@ -1,4 +1,3 @@
-# http://127.0.0.1:5000/static/predict.html
 import base64
 import numpy as np
 import tensorflow.compat.v2 as tf
